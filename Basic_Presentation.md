@@ -1,4 +1,0 @@
-- 👋 Hi, I’m @Erasitox
-- 👀 I’m interested in learning things about programming , and hardware in general
-- 🌱 I’m currently learning some python
-- 💞️ I’m looking to collaborate on low requierements python projects
